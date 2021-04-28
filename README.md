@@ -48,7 +48,7 @@ Hypotonic ;                 Water flows in, lysis
 Isotonic ;	      No net movement of water, remains the same 	
 Hypertonic; 	     The cell becomes flaccid, water flows out 	
 
-                               Plant calls 
+                               Plant cells 
 Hypotonic:                waterflows in ; turgid 
 Isotonic;         no net movement of water; remains the same
 Hypertonic;             water flows in ;plasmolysis
