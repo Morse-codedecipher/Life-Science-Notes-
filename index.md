@@ -205,3 +205,4 @@ How the water moves up the xylem
 - Root pressure - low potential of cell sap. Water entering RHC forces water up the xylem so that new water can come in, partially responsible 
 - Capillary action - caused by adhesion and surface tension
                                         - water adheres to the xylem vessels 
+
